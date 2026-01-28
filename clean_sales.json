@@ -1,0 +1,12 @@
+[
+    {
+        "product": "Widget A",
+        "price_inr": 871.5,
+        "country": "USA"
+    },
+    {
+        "product": "Widget B",
+        "price_inr": 415.0,
+        "country": "Canada"
+    }
+]
