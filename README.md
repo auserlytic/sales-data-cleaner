@@ -32,7 +32,7 @@ Sales Data Cleaner :- This project reads a messy sales CSV file, cleans the data
 
 4. Output Screenshots
 
-   ![Clean Sales Output](sales_clean_output.png)
+   look at the screenshot file added
 
 
 5. Future Improvements
@@ -41,6 +41,7 @@ Sales Data Cleaner :- This project reads a messy sales CSV file, cleans the data
    --> Use Python’s built-in csv module to handle CSV parsing more reliably.
    --> Add proper error handling for invalid numeric values.
    --> Make the currency conversion rate configurable instead of hardcoded.
+
 
 
 
